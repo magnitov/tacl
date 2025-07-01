@@ -1,0 +1,13 @@
+sample	condition	replicate
+TMAU2_NT_rep1	TMAU2_NT	1
+TMAU2_NT_rep2	TMAU2_NT	2
+TMAU2_NT_rep3	TMAU2_NT	3
+TMAU2_Dox2h_rep1	TMAU2_DOX	1
+TMAU2_Dox2h_rep2	TMAU2_DOX	2
+TMAU2_Dox2h_rep3	TMAU2_DOX	3
+TmCherry_NT_rep1	TmCherry_NT	1
+TmCherry_NT_rep2	TmCherry_NT	2
+TmCherry_NT_rep3	TmCherry_NT	3
+TmCherry_Dox2h_rep1	TmCherry_DOX	1
+TmCherry_Dox2h_rep2	TmCherry_DOX	2
+TmCherry_Dox2h_rep3	TmCherry_DOX	3
