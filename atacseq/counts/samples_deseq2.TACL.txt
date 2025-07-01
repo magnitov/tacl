@@ -1,0 +1,7 @@
+sample	line	replicate
+T_mCherry_rep1	T_mCherry	1
+T_mCherry_rep2	T_mCherry	2
+T_MAU2_rep1	T_MAU2	1
+T_MAU2_rep2	T_MAU2	2
+T_MAU2_Dox_rep1	T_MAU2_Dox	1
+T_MAU2_Dox_rep2	T_MAU2_Dox	2
